@@ -4,7 +4,7 @@ import B from "./B";
 const A = () => {
   return (
     <div>
-      A Component
+      A Componentsssss
       <B />
     </div>
   );
