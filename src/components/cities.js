@@ -15,6 +15,9 @@ import { useState } from "react";
 
     return (
         <div>
+        <div>
+           React classes
+        </div>
             <button className="text-2xl bg-slate-500 font-black px-2 py-2 m-8 rounded-lg">Anime</button>
             <img src= {name} className="h-40 w-40 pt-6 rounded-lg"></img>
             <button className="mt-4 bg-yellow-300 font-semibold text-black px-2 py-2 m-8 rounded-lg " onClick={SAO}>SAO</button>
